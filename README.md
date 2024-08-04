@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-[link]([url](https://markpumpkin.github.io/react-todo-list/))
+[link](https://markpumpkin.github.io/react-todo-list/)
+
 ## Available Scripts
 
 In the project directory, you can run:
